@@ -1,0 +1,68 @@
+add a new line
+
+CXGREPOS
+
+STRTOTM
+XGDEVV2
+XGDEVO1  LXGDEVO
+
+4874280
+
+
+V1         W207      112712772801          A                    1     
+V1         W207      180338449301          A                    1  
+XTST01112712772801        V1   W207      DAAAAAA
+
+
+       COMMAND                                                                  
+ CO CD CGA POL      0000217398 SEC ID       PROD U1 PLAN FMGSP3 LOB 32F STATUS A
+ RSTR   SPND   PDF IND N CONTR   ANN DT 05/04/2023 LST FIN DT 01/04/2023 LN ID N
+                            LTC VALUATION INFO                                  
+      ** OPTION V ** EFFECTIVE DATE  01/27/2023 CORR IND    ABR QUAL/NON IND Q  
+ ACCUM CASH VALUE      17,517.12       BENEFIT PERIOD ABR 2 YEARS EOB  2 YEARS  
+ MM%         DIR ID               215360007                    LTC INFL TYPE N  
+      PAYOUT STATUS                                            EOB INFL TYPE N  
+  LTC BENEFIT LIMIT               24,223.00                     DI MONTHLY MAX  
+  LTC DAILY BENE MAX                  33.18                                     
+  LTC MONTHLY BENE MAX             1,028.58                       LUMP SUM      
+  EOB BENEFIT LIMIT               24,223.00                                     
+  EOB DAILY BENE MAX                  33.18                    GROSS TIR LIMIT  
+  EOB MONTHLY BENE MAX             1,028.58                                     
+  INFLATION DAILY BENE MAX              N/A                      NET TIR LIMIT  
+  INFLATION MONTHLY BENE MAX            N/A                                     
+  INFLATION VALUE                       N/A                     CV LIEN AMOUNT  
+  CARE PLANNING BENEFIT AMT          500.00                                     
+  LIFETIME TRAIN/ADDL SERV           500.00                      CALCULATION    
+  ALT CARE SERVICES AMT                0.00                         BASIS       
+  RES CAR/BED RESRV DAILY MAX         33.18                      DAILY BASIS    
+  RES CAR / BED RESRV DAYS USED     00 / 00        /                            
+
+XTST0113266101080         V1   W207      DAAAAAA
+      13266101080
+
+                                                                                
+ NXT TRX VALV  VER    PROD U1 CL/POL      0000217398 SEC ID       CO CGA OVRD N 
+       COMMAND                                                                  
+ CO CD CGA POL      MG10030431 SEC ID       PROD U1 PLAN MG2017 LOB 32F STATUS A
+ RSTR   SPND   PDF IND N CONTR   ANN DT 07/16/2023 LST FIN DT 01/16/2023 LN ID N
+                            LTC VALUATION INFO                                  
+      ** OPTION V ** EFFECTIVE DATE  01/27/2023 CORR IND    ABR QUAL/NON IND Q  
+ ACCUM CASH VALUE      22,921.82       BENEFIT PERIOD ABR 2 YEARS EOBI 4 YEARS  
+ MM%         DIR ID           MG10030431INS                    LTC INFL TYPE C  
+      PAYOUT STATUS                                            EOB INFL TYPE C  
+  LTC BENEFIT LIMIT               50,000.00                     DI MONTHLY MAX  
+  LTC DAILY BENE MAX                                                            
+  LTC MONTHLY BENE MAX             2,083.33                       LUMP SUM      
+  EOB BENEFIT LIMIT              100,000.00                                     
+  EOB DAILY BENE MAX                  69.44                    GROSS TIR LIMIT  
+  EOB MONTHLY BENE MAX             2,083.33                                     
+  INFLATION DAILY BENE MAX                                       NET TIR LIMIT  
+  INFLATION MONTHLY BENE MAX         261.48                                     
+  INFLATION VALUE                  6,275.44                     CV LIEN AMOUNT  
+  CARE PLANNING BENEFIT AMT            0.00                                     
+  LIFETIME TRAIN/ADDL SERV           500.00                      CALCULATION    
+  ALT CARE SERVICES AMT                0.00                         BASIS       
+  RES CAR/BED RESRV DAILY MAX         78.16                      MNTHY BASIS    
+  RES CAR / BED RESRV DAYS USED     00 / 00        /                            
+                                                                                
+ NXT TRX VALV  VER    PROD U1 CL/POL      MG10030431 SEC ID       CO CGA OVRD N 
